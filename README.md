@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This lesson introduces the jQuery framework, which uses JavaScript capabilities.  The jQuery framework is a fast and concise JavaScript library which simplifies HTML document traversing, event handling, Ajax interactions, and animating for rapid web development. )
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://vkida.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
 1. (jQuery basics and how it works)
